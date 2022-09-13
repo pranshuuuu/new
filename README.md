@@ -110,7 +110,7 @@ Responsiveness was an issue which was solved.
 
 ## What's next for Krypton
 
-Due to the time constraint of the hackathon, many things were accomplished only till half way. These include :
+Due to the time constraint of the project, many things were accomplished only till half way. These include :
 
 - Unique Digital Cards: We are planning to build a feature where every user will be able to access a digital card that features all their acheivements
  based on their current and previous investments.
